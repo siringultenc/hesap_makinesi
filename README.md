@@ -1,6 +1,7 @@
 # calculatorrr
 
 A new Flutter project.
+Basitçe oluşturulmuş bir hesap makinesidir.
 
 ## Getting Started
 
